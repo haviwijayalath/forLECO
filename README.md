@@ -25,7 +25,6 @@ Enter your LECO account number when prompted (default: 0208066xxx).
 
 This project was created in 2022. The LECO web portal may have changed since then, so the scraper might need updates to work with the current website structure.
 
-## License
 
 © 2022 W!
 
